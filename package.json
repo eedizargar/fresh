@@ -1,0 +1,22 @@
+{
+  "name": "fresh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eedizargar/fresh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eedizargar/fresh/issues"
+  },
+  "homepage": "https://github.com/eedizargar/fresh#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
