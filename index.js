@@ -1,6 +1,6 @@
 
 const express = require('express');
-const routes = require("../fresh/routers");
+const routes = require("../fresh/routes/index");
 const app = express();
 app.use(express.json());
 app.use(express.urlencoded({extended: true}));
